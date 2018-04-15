@@ -1,7 +1,5 @@
 # My-Little-Python-Scripts
 
 
-'''
-Copyright:    snow
-'''
+**Copyright:    snow**
 
